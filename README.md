@@ -9,23 +9,21 @@ This project combines web scraping, data cleaning, SQL Server analytics, and int
 
 ## 📊 Dashboard Preview
 
+
+## 📸 Dashboard Preview
+
 ### 🏠 Home — Project Overview
 
-The landing page provides an executive introduction to the project, highlighting the dataset scope, key metrics, and available dashboard sections.
-
-![Home Dashboard](assets/Home.png)
+![Home Dashboard](assets/Home%20(2).jpg)
 
 ### 📈 Executive Overview
 
-A high-level view of the Airbnb market, including listing distribution, average nightly prices, review scores, host badges, guest favorites, and city-level performance.
-
-![Executive Overview](assets/Executive.png)
+![Executive Overview](assets/Executive.jpg)
 
 ### 🏡 Host & Property Analysis
 
-An in-depth analysis of review distribution, host performance, guest preferences, price-versus-rating relationships, and top-performing properties.
+![Host & Property](assets/Host%20Property.jpg)
 
-![Host & Property](assets/Host_Property.png)
 
 ---
 
