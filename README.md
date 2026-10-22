@@ -9,9 +9,6 @@ This project combines web scraping, data cleaning, SQL Server analytics, and int
 
 ## 📊 Dashboard Preview
 
-
-## 📸 Dashboard Preview
-
 ### 🏠 Home — Project Overview
 
 ![Home Dashboard](assets/Home%20(2).jpg)
